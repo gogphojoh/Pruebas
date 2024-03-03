@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ggsy79qaRjwtIoStusgFQFftJWVM2DIDprEVLelUgZ4QWRiAollGvYWc1XQOSFFbN35KuFKDMZn1YBCjCamhIA==",
+  "success": true,
+  "projectFilePath": "/home/gogphojoh/Documents/Pruebas/Pruebas.csproj",
+  "expectedPackageFiles": [
+    "/home/gogphojoh/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.15/microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
